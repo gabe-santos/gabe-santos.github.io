@@ -21,28 +21,55 @@
 	text-transform: uppercase;
 }
 
-.menu-section-title {
+.section-title {
 	font-family: Shrikhand;
-	font-size: 1.728rem;
+	font-size: 1.99rem;
 	color: black;
 	-webkit-text-stroke-width: 1px;
 	-webkit-text-stroke-color: white;
 	text-shadow: white 2px 2px;
+	margin-bottom: 5px;
 }
 
-.menu-item {
+.item {
 	margin-bottom: 1.5rem;
 }
 
-.menu-item-name {
+.item-name {
 	font-size: 1.2rem;
 	font-family: 'Montserrat';
 	font-weight: 500;
-	margin-bottom: 2px;
+	margin-bottom: 5px;
 }
 
-.menu-item-body {
+.item-body {
 	font-size: 0.833rem;
-	font-family: Karma;
+	font-family: 'Montserrat';
+	font-weight: 300;
+	font-style: italic;
 	margin-bottom: 0;
+}
+
+.drink-list {
+	padding: 0;
+	margin-left: 0;
+}
+
+.drink-list li {
+	font-family: 'Montserrat';
+	list-style: none;
+	margin-bottom: 1rem;
+}
+
+.tip-note {
+	font-size: 0.75rem;
+	color: grey;
+	font-family: 'Montserrat';
+	font-style: italic;
+}
+
+.quote {
+	font-size: 0.75rem;
+	color: grey;
+	font-family: 'Montserrat';
 }
