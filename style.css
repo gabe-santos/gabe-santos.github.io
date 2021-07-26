@@ -31,16 +31,18 @@
 }
 
 .menu-item {
-	margin-bottom: 50px;
+	margin-bottom: 1.5rem;
 }
 
 .menu-item-name {
 	font-size: 1.2rem;
 	font-family: 'Montserrat';
-	font-weight: 600;
+	font-weight: 500;
+	margin-bottom: 2px;
 }
 
 .menu-item-body {
 	font-size: 0.833rem;
 	font-family: Karma;
+	margin-bottom: 0;
 }
