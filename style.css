@@ -14,7 +14,7 @@
 }
 
 .subtitle {
-	font-family: Montserrat;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
 	margin-top: 0;
 	letter-spacing: 11px;
@@ -36,7 +36,7 @@
 
 .menu-item-name {
 	font-size: 1.2rem;
-	font-family: Montserrat;
+	font-family: 'Montserrat';
 	font-weight: 600;
 }
 
