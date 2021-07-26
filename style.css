@@ -6,19 +6,24 @@
 }
 
 .title {
-	font-family: Shrikhand;
-	font-size: 2.986rem;
-	letter-spacing: 3px;
+	font-family: Montserrat;
+	font-size: 2.488rem;
+	letter-spacing: 2px;
+	font-weight: 800;
+	margin-bottom: 0;
+}
+
+.subtitle {
+	font-family: Montserrat;
 	font-weight: 600;
-	color: black;
-	-webkit-text-stroke-width: 1px;
-	-webkit-text-stroke-color: white;
-	text-shadow: white 2px 2px;
+	margin-top: 0;
+	letter-spacing: 11px;
+	text-transform: uppercase;
 }
 
 .menu-section-title {
 	font-family: Shrikhand;
-	font-size: 2.074rem;
+	font-size: 1.728rem;
 	color: black;
 	-webkit-text-stroke-width: 1px;
 	-webkit-text-stroke-color: white;
@@ -31,11 +36,11 @@
 
 .menu-item-name {
 	font-size: 1.2rem;
-	font-family: sans-serif;
-	font-weight: 400;
+	font-family: Montserrat;
+	font-weight: 600;
 }
 
 .menu-item-body {
-	font-size: 1rem;
+	font-size: 0.833rem;
 	font-family: serif;
 }
